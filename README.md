@@ -293,32 +293,32 @@ Logging Debug Utility: under development
 *Disk Footprint menu:*
 **Debug Testing**\
 - Refresh (button)
-- Create Cache File
-- Clear Entire Cache
-- Create Data File
-- Delete Dummy Data Files
-- Force Trim Minimum
-- Force Trim Nothing
+- Create Cache File (button)
+- Clear Entire Cache (button)
+- Create Data File (button)
+- Delete Dummy Data Files (button)
+- Force Trim Minimum (button)
+- Force Trim Nothing (button)
 **Internal Usage**\
-- Internal Cache: *(B, KB, MB, GB)*
-- Internal Files: *(B, KB, MB, GB)*
-- Internal Other: *(B, KB, MB, GB)*
+- Internal Cache: *(B, KB, MB, GB)* (tapping does nothing)
+- Internal Files: *(B, KB, MB, GB)* (tapping does nothing)
+- Internal Other: *(B, KB, MB, GB)* (tapping does nothing)
 
-- Internal Data Total: *(KB, MB, GB)*
+- Internal Data Total: *(KB, MB, GB)* (tapping does nothing)
 
 **External Usage**\
-- External Files: *(B, KB, MB, GB)*
-- External Cache: *(B, KB, MB, GB)*
-- External Media: *(B, KB, MB, GB)*
+- External Files: *(B, KB, MB, GB)* (tapping does nothing)
+- External Cache: *(B, KB, MB, GB)* (tapping does nothing)
+- External Media: *(B, KB, MB, GB)* (tapping does nothing)
 
-- Total Data: *(B, KB, MB, GB)*
-- Total Caches: *(B, KB, MB, GB)*
+- Total Data: *(B, KB, MB, GB)* (tapping does nothing)
+- Total Caches: *(B, KB, MB, GB)* (tapping does nothing)
 
-- Total Footprint: *(B, KB, MB, GB)*
+- Total Footprint: *(B, KB, MB, GB)* (tapping does nothing)
 
 **Available:**\
-- Available Internal: *(B, KB, MB, GB)*
-- Available External: *(B, KB, MB, GB)*
+- Available Internal: *(B, KB, MB, GB)* (tapping does nothing)
+- Available External: *(B, KB, MB, GB)* (tapping does nothing)
 
 ### Prefetch Media
 - Prefetch Media Debug Overlay (switch)
