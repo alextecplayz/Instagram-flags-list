@@ -87,13 +87,15 @@ _The spacing is intended, as the button Add old entries (...) is separated from 
 - Japan (*unknown, could be related to the in-app map viewer feature*)
 - Oreo (*unknown, possibly related to Android 8.0 Oreo, like Oreo-only fixes or configurations*)
 
-Restart App! ¯\_(ツ)_/¯
+===============================================================================================================================
+
+- Restart App! ¯\_(ツ)_/¯ (button)
 ### App Version
 (AppName): v(Instagram App version that the app is based off of) (Build #BuildNumber, RN Bundle #BundleNumber) YYYY-MM-DD HH:MM
 *Example: INSTANDER: v263.2.0.19.104 (Build #428413132, RN Bundle #428413132) 2022-12-13 05:39* // Instander 17.2
 
 ### Media Injection
-Media Injection Tool
+Media Injection Tool (button > menu)
 
 (Stories dropdown)              Clear All for stories (button)
 - Inject "New!" Nux Reel (switch)
@@ -287,6 +289,36 @@ Logging Debug Utility: under development
 
 ### Disk Usage
 - Disk Footprint Debugging (button > menu)
+
+*Disk Footprint menu:*
+**Debug Testing**\
+- Refresh (button)
+- Create Cache File
+- Clear Entire Cache
+- Create Data File
+- Delete Dummy Data Files
+- Force Trim Minimum
+- Force Trim Nothing
+**Internal Usage**\
+- Internal Cache: *(B, KB, MB, GB)*
+- Internal Files: *(B, KB, MB, GB)*
+- Internal Other: *(B, KB, MB, GB)*
+
+- Internal Data Total: *(KB, MB, GB)*
+
+**External Usage**\
+- External Files: *(B, KB, MB, GB)*
+- External Cache: *(B, KB, MB, GB)*
+- External Media: *(B, KB, MB, GB)*
+
+- Total Data: *(B, KB, MB, GB)*
+- Total Caches: *(B, KB, MB, GB)*
+
+- Total Footprint: *(B, KB, MB, GB)*
+
+**Available:**\
+- Available Internal: *(B, KB, MB, GB)*
+- Available External: *(B, KB, MB, GB)*
 
 ### Prefetch Media
 - Prefetch Media Debug Overlay (switch)
